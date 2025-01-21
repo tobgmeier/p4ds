@@ -67,6 +67,6 @@ git reset --hard origin/master
 **Week 10:**  Deep Learning: other architectures. GANs/Autoencoders. 
 
 
-## With thanks to Massimiliano Izzo 
+#### With thanks to Massimiliano Izzo 
 
 
