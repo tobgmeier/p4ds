@@ -25,20 +25,20 @@ cd Documents
 
 Then ask Git to clone this repository with the following command.
 ```
-git clone https://gitlab.com/grobles21/pp4ds_ht2025/pp4ds_ht2025.git
+git clone https://github.com/grobles2/p4ds/
 ```
-(or, in the unlikely case that you have SSH enabled use `git clone git@gitlab.com:grobles21/pp4ds_ht2025/pp4ds_ht2025.git`)
+(or, in the unlikely case that you have SSH enabled use `git clone git@github.com:grobles2/p4ds`)
 
-This will create a subdirectory called `pp4ds-pt2-tt2024` in your `Documents` folder. When you need to update the content at some later time after I have added some new files to the repository, you will need to open up the command-line again and do the following commands.
+This will create a subdirectory called `p4ds` in your `Documents` folder. When you need to update the content at some later time after I have added some new files to the repository, you will need to open up the command-line again and do the following commands.
 ```
-cd Documents/pp4ds-ht2025
+cd Documents/p4ds
 git pull
 ```
 What this does is to ask Git to check if there are any new changes in the online repository and to download those new files or updates to the existing files.
 
 Either some lines of stuff should whizz by, or it will say `Already up to date.` if there are no new changes.
 
-If this doesn't work, you may need to force the update, which will overwrite your local files. To do this (make sure any of your own work is renamed or moved outside of the `pp4ds-pt2-tt2024` folder first):
+If this doesn't work, you may need to force the update, which will overwrite your local files. To do this (make sure any of your own work is renamed or moved outside of the `p4ds` folder first):
 ```
 git fetch --all
 git reset --hard origin/master
