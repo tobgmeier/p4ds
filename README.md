@@ -3,11 +3,10 @@
 
 Materials for [Python Programming for Data Science - Intermediate](https://www.conted.ox.ac.uk/courses/python-programming-for-data-science-intermediate?code=O24P435COW) - **this page will be updated as the course progresses**.
 
-The class workspace on **Slack** is https://pp4ds-ox-workspace.slack.com/ . I encourage you to ask questions should you have them in the Slack channel incase your classmates can help. Download Slack from: https://slack.com/get
+The class workspace on **Slack** is https://pp4ds-ox-workspace.slack.com/ . Join [via the join link](https://join.slack.com/t/pp4ds-ox-workspace/shared_invite/zt-2yi8vv2bk-Hl0eRojv8RPBlqS9EMFuHA) to ask questions and reach tutors and classmates. Download Slack from: https://slack.com/get
 
-join link : https://join.slack.com/t/pp4ds-ox-workspace/shared_invite/zt-2yi8vv2bk-Hl0eRojv8RPBlqS9EMFuHA 
 
-If you do not wish to use slack you can contact us by [email(gisela.aguilar@ndm.ox.ac.uk)] or leave comments in our [feedback form(https://forms.gle/3n94eboCTPB4Avni8)]
+If you do not wish to use slack you can contact us by [email](gisela.aguilar@ndm.ox.ac.uk) or leave comments in our [feedback form](https://forms.gle/3n94eboCTPB4Avni8)
  
 
 To use **Jupyter** yourself, I recommend you download and install **Anaconda**, a Python Data Science Platform, from: [here](https://www.anaconda.com) Make sure you download the **Python 3** version of Anaconda, ideally the latest version for Python 3.11. You can also install Jupyter if you have a standard Python distribution installed. Ask your tutors for assistance if you need to install Jupyter on your own machine.
